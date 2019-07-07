@@ -1,0 +1,17 @@
+D:\Projekty\Applandeo\Applandeo\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projekty\Applandeo\Applandeo\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projekty\Applandeo\Applandeo\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projekty\Applandeo\Applandeo\bin\Debug\netcoreapp2.1\Applandeo.deps.json
+D:\Projekty\Applandeo\Applandeo\bin\Debug\netcoreapp2.1\Applandeo.runtimeconfig.json
+D:\Projekty\Applandeo\Applandeo\bin\Debug\netcoreapp2.1\Applandeo.runtimeconfig.dev.json
+D:\Projekty\Applandeo\Applandeo\bin\Debug\netcoreapp2.1\Applandeo.dll
+D:\Projekty\Applandeo\Applandeo\bin\Debug\netcoreapp2.1\Applandeo.pdb
+D:\Projekty\Applandeo\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.csprojAssemblyReference.cache
+D:\Projekty\Applandeo\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.csproj.CoreCompileInputs.cache
+D:\Projekty\Applandeo\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.AssemblyInfoInputs.cache
+D:\Projekty\Applandeo\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.AssemblyInfo.cs
+D:\Projekty\Applandeo\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.dll
+D:\Projekty\Applandeo\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.pdb
+D:\Projekty\Applandeo\Applandeo\bin\Debug\netcoreapp2.1\AssertionLibrary.dll
+D:\Projekty\Applandeo\Applandeo\bin\Debug\netcoreapp2.1\AssertionLibrary.pdb
+D:\Projekty\Applandeo\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.csproj.CopyComplete
