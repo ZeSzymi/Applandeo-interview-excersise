@@ -7,3 +7,12 @@ D:\Projekty\Applandeo\AssertionLibrary\obj\Debug\netcoreapp2.1\AssertionLibrary.
 D:\Projekty\Applandeo\AssertionLibrary\obj\Debug\netcoreapp2.1\AssertionLibrary.AssemblyInfo.cs
 D:\Projekty\Applandeo\AssertionLibrary\obj\Debug\netcoreapp2.1\AssertionLibrary.dll
 D:\Projekty\Applandeo\AssertionLibrary\obj\Debug\netcoreapp2.1\AssertionLibrary.pdb
+D:\Projekty\Applandeo_interview\AssertionLibrary\bin\Debug\netcoreapp2.1\AssertionLibrary.deps.json
+D:\Projekty\Applandeo_interview\AssertionLibrary\bin\Debug\netcoreapp2.1\AssertionLibrary.dll
+D:\Projekty\Applandeo_interview\AssertionLibrary\bin\Debug\netcoreapp2.1\AssertionLibrary.pdb
+D:\Projekty\Applandeo_interview\AssertionLibrary\obj\Debug\netcoreapp2.1\AssertionLibrary.csprojAssemblyReference.cache
+D:\Projekty\Applandeo_interview\AssertionLibrary\obj\Debug\netcoreapp2.1\AssertionLibrary.csproj.CoreCompileInputs.cache
+D:\Projekty\Applandeo_interview\AssertionLibrary\obj\Debug\netcoreapp2.1\AssertionLibrary.AssemblyInfoInputs.cache
+D:\Projekty\Applandeo_interview\AssertionLibrary\obj\Debug\netcoreapp2.1\AssertionLibrary.AssemblyInfo.cs
+D:\Projekty\Applandeo_interview\AssertionLibrary\obj\Debug\netcoreapp2.1\AssertionLibrary.dll
+D:\Projekty\Applandeo_interview\AssertionLibrary\obj\Debug\netcoreapp2.1\AssertionLibrary.pdb

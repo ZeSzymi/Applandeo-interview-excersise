@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projekty\\Applandeo\\AssertionLibrary\\AssertionLibrary.csproj",
+      "projectUniqueName": "D:\\Projekty\\Applandeo_interview\\AssertionLibrary\\AssertionLibrary.csproj",
       "projectName": "AssertionLibrary",
-      "projectPath": "D:\\Projekty\\Applandeo\\AssertionLibrary\\AssertionLibrary.csproj",
+      "projectPath": "D:\\Projekty\\Applandeo_interview\\AssertionLibrary\\AssertionLibrary.csproj",
       "packagesPath": "C:\\Users\\szymi\\.nuget\\packages\\",
-      "outputPath": "D:\\Projekty\\Applandeo\\AssertionLibrary\\obj\\",
+      "outputPath": "D:\\Projekty\\Applandeo_interview\\AssertionLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

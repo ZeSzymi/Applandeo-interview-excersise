@@ -5842,11 +5842,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projekty\\Applandeo\\Applandeo\\Applandeo.csproj",
+      "projectUniqueName": "D:\\Projekty\\Applandeo_interview\\Applandeo\\Applandeo.csproj",
       "projectName": "Applandeo",
-      "projectPath": "D:\\Projekty\\Applandeo\\Applandeo\\Applandeo.csproj",
+      "projectPath": "D:\\Projekty\\Applandeo_interview\\Applandeo\\Applandeo.csproj",
       "packagesPath": "C:\\Users\\szymi\\.nuget\\packages\\",
-      "outputPath": "D:\\Projekty\\Applandeo\\Applandeo\\obj\\",
+      "outputPath": "D:\\Projekty\\Applandeo_interview\\Applandeo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5865,8 +5865,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Projekty\\Applandeo\\AssertionLibrary\\AssertionLibrary.csproj": {
-              "projectPath": "D:\\Projekty\\Applandeo\\AssertionLibrary\\AssertionLibrary.csproj"
+            "D:\\Projekty\\Applandeo_interview\\AssertionLibrary\\AssertionLibrary.csproj": {
+              "projectPath": "D:\\Projekty\\Applandeo_interview\\AssertionLibrary\\AssertionLibrary.csproj"
             }
           }
         }

@@ -15,3 +15,9 @@ D:\Projekty\Applandeo\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.pdb
 D:\Projekty\Applandeo\Applandeo\bin\Debug\netcoreapp2.1\AssertionLibrary.dll
 D:\Projekty\Applandeo\Applandeo\bin\Debug\netcoreapp2.1\AssertionLibrary.pdb
 D:\Projekty\Applandeo\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.csproj.CopyComplete
+D:\Projekty\Applandeo_interview\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.csprojAssemblyReference.cache
+D:\Projekty\Applandeo_interview\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.csproj.CoreCompileInputs.cache
+D:\Projekty\Applandeo_interview\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.AssemblyInfoInputs.cache
+D:\Projekty\Applandeo_interview\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.AssemblyInfo.cs
+D:\Projekty\Applandeo_interview\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.dll
+D:\Projekty\Applandeo_interview\Applandeo\obj\Debug\netcoreapp2.1\Applandeo.pdb
