@@ -12,8 +12,9 @@ namespace AssertionLibrary
         {
             foreach (PropertyInfo propertyInfo in Expected.GetType().GetProperties())
             {
-                if (!(provided.GetType().GetProperty(propertyInfo.Name).GetValue(provided, null) == propertyInfo.GetValue(Expected, null)))
-                    throw new ExpectationFailedException();
+                var providedProperty = provided.GetType().GetProperty(propertyInfo.Name).GetValue(provided, null);
+                var expectedProperty = propertyInfo.GetValue(Expected, null);
+                CompareProperties(expectedProperty, providedProperty);
             }
             return;
         }

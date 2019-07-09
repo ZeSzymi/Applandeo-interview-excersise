@@ -96,7 +96,7 @@ namespace Applandeo
         }
 
         [TestMethod]
-        public void Test_PropertiesWithout()
+        public void Test_PropertiesWithout_String()
         {
             var tested = new FizzBuzz() { Buzz = "Buzz", Fiz = "Fiz" };
             var expected = new { Buzz = "Buzz", Fiz = "Fiz2" };
@@ -105,7 +105,7 @@ namespace Applandeo
 
         [TestMethod]
         [ExpectedException(typeof(ExpectationFailedException))]
-        public void Test_PropertiesWithout_Fails()
+        public void Test_PropertiesWithout_String_Fails()
         {
             var tested = new FizzBuzz() { Buzz = "Buzz", Fiz = "Fiz" };
             var expected = new { Buzz = "Buzz2", Fiz = "Fiz2" };

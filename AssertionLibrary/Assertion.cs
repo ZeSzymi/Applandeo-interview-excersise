@@ -36,11 +36,20 @@ namespace AssertionLibrary
             throw new ExpectationFailedException();
         }
 
+        public void CompareProperties(dynamic expectedProperty, dynamic providedProperty)
+        {
+            if (!(providedProperty == expectedProperty))
+                throw new ExpectationFailedException();
+            return;
+        }
+
         public AssertionInverted<T> Not() => new AssertionInverted<T>(Expected);
 
         public AssertionWithProperties<T> Properties() => new AssertionWithProperties<T>(Expected);
 
-        public AssertionWithoutProperties<T> PropertiesWithout() => new AssertionWithoutProperties<T>(Expected);
+        public AssertionWithoutProperties<T> PropertiesWithout(Func<T, dynamic> method) => new AssertionWithoutProperties<T>(Expected, method(Expected));
+
+        public AssertionWithoutProperties<T> PropertiesWithout(dynamic property) => new AssertionWithoutProperties<T>(Expected, property);
     }
 
 
