@@ -16,7 +16,6 @@ namespace AssertionLibrary
                 var expectedProperty = propertyInfo.GetValue(Expected, null);
                 CompareProperties(expectedProperty, providedProperty);
             }
-            return;
         }
     }
 

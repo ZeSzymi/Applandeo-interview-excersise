@@ -16,19 +16,15 @@ namespace AssertionLibrary
             {
                 var providedProperty = provided.GetType().GetProperty(propertyInfo.Name).GetValue(provided, null);
                 var expectedProperty = propertyInfo.GetValue(Expected, null);
-                if (!CheckIfComparingExcludedProperty(expectedProperty))
+                if (IsNotExcludedProperty(expectedProperty))
                 {
                     CompareProperties(expectedProperty, providedProperty);
                 }
             }
-            return;
         }
 
-        public bool CheckIfComparingExcludedProperty(dynamic excpectedProperty)
-        {
-            if (_excludedProperty == excpectedProperty) return true;
-            return false;
-        }
+        public bool IsNotExcludedProperty(dynamic excpectedProperty) => _excludedProperty != excpectedProperty;
+
     }
 
     
