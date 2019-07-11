@@ -40,7 +40,6 @@ namespace AssertionLibrary
         {
             if (!(providedProperty == expectedProperty))
                 throw new ExpectationFailedException();
-            return;
         }
 
         public AssertionInverted<T> Not() => new AssertionInverted<T>(Expected);
@@ -52,7 +51,6 @@ namespace AssertionLibrary
         public AssertionWithoutProperties<T> PropertiesWithout(dynamic property) => new AssertionWithoutProperties<T>(Expected, property);
     }
 
-
     public static class ExpectExtension
     {
         public static Assertion<T> Expect<T>(this T obj)
@@ -61,5 +59,4 @@ namespace AssertionLibrary
         }
     }
 
-    
 }
